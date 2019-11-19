@@ -1,0 +1,13 @@
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\bin\Debug\netstandard2.0\SkiaApp.deps.json
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\bin\Debug\netstandard2.0\SkiaApp.dll
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\SkiaApp.csprojAssemblyReference.cache
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\SkiaApp.AssemblyInfoInputs.cache
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\SkiaApp.AssemblyInfo.cs
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\bin\Debug\netstandard2.0\ref\SkiaApp.dll
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\bin\Debug\netstandard2.0\SkiaApp.pdb
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\SkiaApp.dll
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\ref\SkiaApp.dll
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\SkiaApp.pdb
+C:\Users\Slava\source\repos\SkiaApp\SkiaApp\SkiaApp\obj\Debug\netstandard2.0\XamlC.stamp

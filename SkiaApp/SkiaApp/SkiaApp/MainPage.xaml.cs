@@ -25,36 +25,11 @@ namespace SkiaApp
         private void GetDictionaryAsync()
         {
             DataSeter DataSeter = new DataSeter();
-            dictionary.Add('а', DataSeter.GetSym('А'));
-            dictionary.Add('б', DataSeter.GetSym('Б'));
-            dictionary.Add('в', DataSeter.GetSym('В'));
-            dictionary.Add('г', DataSeter.GetSym('Г'));
-            dictionary.Add('д', DataSeter.GetSym('Д'));
-            dictionary.Add('е', DataSeter.GetSym('Е'));
-            dictionary.Add('ж', DataSeter.GetSym('Ж'));
-            dictionary.Add('з', DataSeter.GetSym('З'));
-            dictionary.Add('и', DataSeter.GetSym('И'));
-            dictionary.Add('к', DataSeter.GetSym('К'));
-            dictionary.Add('л', DataSeter.GetSym('Л'));
-            dictionary.Add('м', DataSeter.GetSym('М'));
-            dictionary.Add('н', DataSeter.GetSym('Н'));
-            dictionary.Add('о', DataSeter.GetSym('О'));
-            dictionary.Add('п', DataSeter.GetSym('П'));
-            dictionary.Add('р', DataSeter.GetSym('Р'));
-            dictionary.Add('с', DataSeter.GetSym('С'));
-            dictionary.Add('т', DataSeter.GetSym('Т'));
-            dictionary.Add('у', DataSeter.GetSym('У'));
-            dictionary.Add('ф', DataSeter.GetSym('Ф'));
-            dictionary.Add('х', DataSeter.GetSym('Х'));
-            dictionary.Add('ц', DataSeter.GetSym('Ц'));
-            dictionary.Add('ч', DataSeter.GetSym('Ч'));
-            dictionary.Add('ш', DataSeter.GetSym('Ш'));
-            dictionary.Add('ы', DataSeter.GetSym('Ы'));
-            dictionary.Add('щ', DataSeter.GetSym('Щ'));
-            dictionary.Add('э', DataSeter.GetSym('Э'));
-            dictionary.Add('ю', DataSeter.GetSym('Ю'));
-            dictionary.Add('я', DataSeter.GetSym('Я'));
-            dictionary.Add('й', DataSeter.GetSym('Й'));
+            for (int i = 'а'; i <= 'я'; i++)
+            {
+                dictionary.Add((char)i, DataSeter.GetSym(char.ToUpper((char)i)));
+            }
+
             dictionary.Add(' ', DataSeter.GetSym(' '));
             dictionary.Add(',', DataSeter.GetSym(','));
             dictionary.Add('.', DataSeter.GetSym('.'));
